@@ -10,7 +10,7 @@ of `debops/docs`_.
    :maxdepth: 2
    :glob:
 
-   ansible/roles/index
+   ansible/roles/ansible-*/docs/index
 
 ..
  Local Variables:

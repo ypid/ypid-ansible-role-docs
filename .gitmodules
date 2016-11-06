@@ -6,3 +6,19 @@
 	path = docs/ansible/roles/ansible-paedml_linux
 	url = https://github.com/ypid/ansible-paedml_linux.git
 	ignore = untracked
+[submodule "docs/ansible/roles/ansible-wine"]
+	path = docs/ansible/roles/ansible-wine
+	url = https://github.com/ypid/ansible-wine.git
+	ignore = untracked
+[submodule "docs/ansible/roles/ansible-whereami"]
+	path = docs/ansible/roles/ansible-whereami
+	url = https://github.com/ypid/ansible-whereami.git
+	ignore = untracked
+[submodule "docs/ansible/roles/ansible-linuxmuster_net_client"]
+	path = docs/ansible/roles/ansible-linuxmuster_net_client
+	url = https://github.com/ypid/ansible-linuxmuster_net_client.git
+	ignore = untracked
+[submodule "docs/ansible/roles/ansible-shutdown_if_battery_low"]
+	path = docs/ansible/roles/ansible-shutdown_if_battery_low
+	url = https://github.com/ypid/ansible-shutdown_if_battery_low.git
+	ignore = untracked
