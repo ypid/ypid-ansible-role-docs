@@ -1,0 +1,8 @@
+[submodule "docs/ansible/roles/ansible-opsi"]
+	path = docs/ansible/roles/ansible-opsi
+	url = https://github.com/ypid/ansible-opsi.git
+	ignore = untracked
+[submodule "docs/ansible/roles/ansible-paedml_linux"]
+	path = docs/ansible/roles/ansible-paedml_linux
+	url = https://github.com/ypid/ansible-paedml_linux.git
+	ignore = untracked
