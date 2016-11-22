@@ -22,3 +22,7 @@
 	path = docs/ansible/roles/ansible-shutdown_if_battery_low
 	url = https://github.com/ypid/ansible-shutdown_if_battery_low.git
 	ignore = untracked
+[submodule "docs/ansible/roles/ansible-dhclient"]
+	path = docs/ansible/roles/ansible-dhclient
+	url = https://github.com/ypid/ansible-dhclient.git
+	ignore = untracked
